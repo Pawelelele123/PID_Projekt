@@ -1,0 +1,10 @@
+1 [tego użyto]:
+660ZW
+LM35
+DZ
+
+2 (słaba dokładność podobno, tylko od 0 do 50 stopni Celcjusza):
+DHT11
+
+3:
+Pt1000

@@ -1,0 +1,3 @@
+float by w printf działały (Screenshot_1.png): https://community.st.com/t5/stm32-mcus-embedded-software/how-to-get-rid-of-quot-float-formatting-support-is-not-enabled/td-p/597031
+
+tylko warning – ustawić jasne kodowanie UTF-8 przez kliknięcie prawym i szybkie rozwiązanie: https://stackoverflow.com/questions/72692978/eclipse-project-project-name-has-no-explicit-encoding-set
